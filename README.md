@@ -1,7 +1,11 @@
 # ConstrainedGANs
 
 #### Introduction
-This is the code for contrainedGANs. Developed by Dr.Heng Xiao's group as Virginia Tech:[Data-Enabled Computational Mechinics Laboratory at Virginia Tech.] (https://www.aoe.vt.edu/people/faculty/xiaoheng/personal-page.html)
+This is the code and example cases for the following paper:
+
+Y. Zeng, J.L. Wu, and H. Xiao. Enforcing Deterministic Constraints on Generative Adversarial Networks for Emulating Physical Systems. Submitted.
+
+Developed by Yang Zeng at Dr. Heng Xiao's group at Virginia Tech (https://www.aoe.vt.edu/people/faculty/xiaoheng/personal-page.html). Our implementation is built upon the standard, baseline GANs implementation by Kristiadi et al. (https://github.com/wiseodd/generative-models).
 
 #### Requires
 1. Python 3.X
@@ -9,10 +13,6 @@ This is the code for contrainedGANs. Developed by Dr.Heng Xiao's group as Virgin
 3. Numpy 
 4. Scipy
 
-
-#### Contributor
-
-1.  Yang Zeng
 
 #### Reference
 
