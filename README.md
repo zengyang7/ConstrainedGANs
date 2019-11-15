@@ -14,8 +14,6 @@ Developed by Yang Zeng at https://www.aoe.vt.edu/people/faculty/xiaoheng/persona
 4. Scipy
 
 
-[https://github.com/xiaoh/sediFoam/wiki](wiki pages)
-
 ## Reference
 
 1. https://github.com/zengyang7/CIFAR-ZOO
