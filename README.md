@@ -1,4 +1,4 @@
-# ConstrainedGANs
+# Physics Constrained GANs
 
 #### Introduction
 This is the code and example cases for the following paper:
