@@ -5,7 +5,7 @@ This is the code and example cases for the following paper:
 
 Y. Zeng, J.L. Wu, and H. Xiao. Enforcing Deterministic Constraints on Generative Adversarial Networks for Emulating Physical Systems. Submitted.
 
-Developed by Yang Zeng at Dr. Heng Xiao's group at Virginia Tech (https://www.aoe.vt.edu/people/faculty/xiaoheng/personal-page.html). Our implementation is built upon the standard, baseline GANs implementation by Kristiadi et al. (https://github.com/wiseodd/generative-models).
+Developed by Yang Zeng at https://www.aoe.vt.edu/people/faculty/xiaoheng/personal-page.html [Dr. Heng Xiao's Data Enabled Computational Mechanics group] at Virginia Tech . Our implementation is built upon the standard, baseline  https://github.com/wiseodd/generative-models [GANs implementation] by Kristiadi et al.
 
 #### Requires
 1. Python 3.X
